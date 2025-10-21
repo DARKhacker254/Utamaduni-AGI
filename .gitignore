@@ -1,0 +1,14 @@
+# Ignore virtual environments and package binaries
+venv/
+.venv/
+AI/lib/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.log
+.env
+*.db
+.DS_Store
