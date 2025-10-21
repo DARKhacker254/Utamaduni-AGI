@@ -1,0 +1,21 @@
+[
+  {
+    "language": "sw",
+    "category": "proverb",
+    "text_original": "Haraka haraka haina baraka",
+    "text_translated": "Haste has no blessing",
+    "tags": ["patience", "wisdom"],
+    "source": "Swahili oral tradition",
+    "trust_score": 0.9
+  },
+  {
+    "language": "luhya",
+    "category": "proverb",
+    "text_original": "Omundu ne shivala shiye shibili",
+    "text_translated": "A person has two ears (listen before acting)",
+    "tags": ["listening", "wisdom"],
+    "source": "Luhya oral tradition",
+    "trust_score": 0.85
+  }
+]
+
